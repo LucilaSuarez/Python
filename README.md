@@ -1,4 +1,4 @@
-# 🎮 Gestión de Videojuegos Retro
+# 🎮 Gestión de Videojuegos
 
 Este proyecto es una aplicación de consola desarrollada en **Python** que permite gestionar una lista de videojuegos clásicos. Incluye funcionalidades como alta, modificación, baja, filtros por género o empresa, ordenamiento, y exportación de datos en formatos JSON y CSV.
 
