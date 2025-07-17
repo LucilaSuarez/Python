@@ -28,8 +28,8 @@ Este proyecto es una aplicación de consola desarrollada en **Python** que permi
 - `F5.csv`: Exportación ordenada en formato CSV
 
 ---
-
-## 📌 Autor
+## 👩🏼‍💻 Autor
 
 **Lucila Micaela Suarez**  
+ 
 Proyecto realizado como práctica de Programación I (Python).
