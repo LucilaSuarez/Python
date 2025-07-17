@@ -1,0 +1,25 @@
+{
+    "juegos": [
+        {
+            "id": 12,
+            "nombre": "Double Dragon",
+            "empresa": "Taito",
+            "anio": "1987",
+            "genero": "Peleas"
+        },
+        {
+            "id": 14,
+            "nombre": "Street Fighter",
+            "empresa": "Capcom",
+            "anio": "1987",
+            "genero": "Peleas"
+        },
+        {
+            "id": 13,
+            "nombre": "Final Fight",
+            "empresa": "Capcom",
+            "anio": "1989",
+            "genero": "Peleas"
+        }
+    ]
+}
